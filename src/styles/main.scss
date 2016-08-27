@@ -1,0 +1,16 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.box{
+ 	box-shadow: 5px 6px 5px #E0E0E0;
+
+	.navbar{
+		display: flex;
+		padding:10px;
+	
+		.neat{
+			margin-right:50px;
+		}
+	}
+}
